@@ -1,1 +1,7 @@
-# GitTogether-cdmx-email-template
+# GitTogethers Email Template
+
+## Instructions
+
+## Contributors
+- @manuosmx
+- @aleepsy
