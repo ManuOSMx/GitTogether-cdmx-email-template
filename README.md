@@ -10,7 +10,16 @@ Este template sirve como base para estructurar correos en HTML y CSS que se envi
    - Usar **github.dev**:
      1. En la raíz de tu repositorio, presiona la tecla:  `.`.
 3. Abre el archivo [index.html](./index.html)
-
+4. Este template tiene la estructura para aceptar las sesiones de los speakers. Si solo requires editar editar el nombre de la comunidad y/o tus datos:
+   - Mensaje principal:
+     - Lineas: `182` - `187`.
+   - Nombre de la comunidad:
+     - Lineas: `221`.
+   - Email contacto:
+     - Lineas: `211`.
+   - Redes sociales: 
+     - Lineas: `254`, `279`, `304`.
+Puedes editar toda la plantilla según creas necesario.
 
 ## Contributors
 - @manuosmx
