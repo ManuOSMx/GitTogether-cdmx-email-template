@@ -1,5 +1,5 @@
 # GitTogethers Email Template
-Este template sirve como base para estructurar correos en HTML y CSS que se enviarán a los asistentes o a speakers, ya sea usando Outlook o Gmail. Con el objetivo que en el futuro pueda ser compatible para hacer automatizaciones en Power Automate o en lenguajes de programación que tengan soporte para hacer envíos de correos, como en el caso de Flask en Python. :octocat:
+Este template sirve como base para estructurar correos en HTML y CSS que se enviarán a asistentes o a speakers, ya sea usando Outlook o Gmail. Con el objetivo que en el futuro pueda ser compatible para hacer automatizaciones en Power Automate o en lenguajes de programación que tengan soporte para hacer envíos de correos, como en el caso de Flask en Python. :octocat:
 
 ## Instructions
 1. Haz un **fork** de este repositorio y coloca el nombre que gustes.
