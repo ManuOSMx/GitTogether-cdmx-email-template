@@ -22,5 +22,5 @@ Este template sirve como base para estructurar correos en HTML y CSS que se envi
 Puedes editar toda la plantilla según creas necesario.
 
 ## Contributors
-- @manuosmx
+- [@manuosmx](https://github.com/manuosmx)
 - @aleepsy
