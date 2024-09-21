@@ -23,4 +23,4 @@ Puedes editar toda la plantilla según creas necesario.
 
 ## Contributors
 - [@manuosmx](https://github.com/manuosmx)
-- @aleepsy
+- [@aleepsy](https://github.com/aleepsy)
