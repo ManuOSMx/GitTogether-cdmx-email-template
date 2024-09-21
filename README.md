@@ -12,7 +12,7 @@ Este template sirve como base para estructurar correos en HTML y CSS que se envi
 3. Abre el archivo [index.html](./index.html)
 4. Este template tiene la estructura para aceptar las sesiones de los speakers. Si solo requires editar editar el nombre de la comunidad y/o tus datos:
    - Mensaje principal:
-     - Lineas: `182` - `187`.
+     - Lineas: [`182` - `187`](https://github.com/ManuOSMx/GitTogether-cdmx-email-template/blob/main/index.html#L182-L187).
    - Nombre de la comunidad:
      - Lineas: `221`.
    - Email contacto:
