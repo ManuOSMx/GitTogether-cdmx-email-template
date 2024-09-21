@@ -19,6 +19,7 @@ Este template sirve como base para estructurar correos en HTML y CSS que se envi
      - Lineas: [`211`](https://github.com/ManuOSMx/GitTogether-cdmx-email-template/blob/main/index.html#L211).
    - Redes sociales: 
      - Lineas: [`254`](https://github.com/ManuOSMx/GitTogether-cdmx-email-template/blob/main/index.html#L254), [`279`](https://github.com/ManuOSMx/GitTogether-cdmx-email-template/blob/main/index.html#L279), [`304`](https://github.com/ManuOSMx/GitTogether-cdmx-email-template/blob/main/index.html#L304).
+
 Puedes editar toda la plantilla según creas necesario.
 
 ## Contributors
